@@ -1,2 +1,2 @@
 linuxserver/plex
-https://github.com/Yuhanlll/docker_image_pusher/actions/runs/9975796889
+binhex/arch-plexpass
