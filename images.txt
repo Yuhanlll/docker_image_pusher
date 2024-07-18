@@ -2,3 +2,4 @@ linuxserver/plex
 binhex/arch-plexpass
 jxxghp/moviepilot
 linuxserver/qbittorrent
+linuxserver/emby
