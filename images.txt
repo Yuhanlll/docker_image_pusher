@@ -4,3 +4,4 @@ jxxghp/moviepilot
 linuxserver/qbittorrent
 linuxserver/emby
 linuxserver/jellyfin
+stashapp/stash
