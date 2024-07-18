@@ -3,3 +3,4 @@ binhex/arch-plexpass
 jxxghp/moviepilot
 linuxserver/qbittorrent
 linuxserver/emby
+linuxserver/jellyfin
