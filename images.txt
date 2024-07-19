@@ -7,3 +7,4 @@ linuxserver/jellyfin
 stashapp/stash
 gotson/komga
 deluan/navidrome
+holaflenain/stable-diffusion
