@@ -5,3 +5,5 @@ linuxserver/qbittorrent
 linuxserver/emby
 linuxserver/jellyfin
 stashapp/stash
+gotson/komga
+deluan/navidrome
