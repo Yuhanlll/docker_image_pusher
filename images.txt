@@ -8,4 +8,4 @@ stashapp/stash
 gotson/komga
 deluan/navidrome
 holaflenain/stable-diffusion
-linuxserver/calibre
+linuxserver/calibre-web
