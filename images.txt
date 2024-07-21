@@ -9,3 +9,4 @@ gotson/komga
 deluan/navidrome
 holaflenain/stable-diffusion
 linuxserver/calibre-web
+mikenye/picard
