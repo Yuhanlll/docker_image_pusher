@@ -11,3 +11,4 @@ holaflenain/stable-diffusion
 linuxserver/calibre-web
 mikenye/picard
 xhongc/music_tag_web
+p3terx/aria2-pro
