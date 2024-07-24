@@ -14,3 +14,4 @@ xhongc/music_tag_web
 p3terx/aria2-pro
 p3terx/ariang
 ollama/ollama
+ghcr.io/open-webui/open-webui:main
