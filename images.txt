@@ -12,3 +12,4 @@ linuxserver/calibre-web
 mikenye/picard
 xhongc/music_tag_web
 p3terx/aria2-pro
+p3terx/ariang
