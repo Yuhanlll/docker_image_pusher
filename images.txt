@@ -10,8 +10,8 @@ deluan/navidrome
 holaflenain/stable-diffusion
 linuxserver/calibre-web
 mikenye/picard
-xhongc/music_tag_web
 p3terx/aria2-pro
 p3terx/ariang
 ollama/ollama
 ghcr.io/open-webui/open-webui:main
+xhongc/music_tag_web:2.1.3
