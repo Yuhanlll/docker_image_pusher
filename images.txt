@@ -19,3 +19,4 @@ searxng/searxng
 daledavies/jump
 requarks/wiki
 jc21/nginx-proxy-manager
+linuxserver/heimdall
