@@ -19,3 +19,4 @@ daledavies/jump
 requarks/wiki
 jc21/nginx-proxy-manager
 hslr/sun-panel
+justsong/go-file
