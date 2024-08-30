@@ -22,4 +22,4 @@ hslr/sun-panel
 justsong/go-file
 celaraze/cat
 langgenius/dify-web
-mintplexlabs/anythingllm
+mintplexlabs/anythingllm:master
