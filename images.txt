@@ -1,5 +1,4 @@
 linuxserver/plex
-binhex/arch-plexpass
 jxxghp/moviepilot
 linuxserver/qbittorrent
 linuxserver/emby
@@ -9,7 +8,6 @@ gotson/komga
 deluan/navidrome
 holaflenain/stable-diffusion
 linuxserver/calibre-web
-mikenye/picard
 p3terx/aria2-pro
 p3terx/ariang
 ollama/ollama
@@ -22,4 +20,4 @@ hslr/sun-panel
 justsong/go-file
 celaraze/cat
 langgenius/dify-web
-mintplexlabs/anythingllm:master
+mintplexlabs/anythingllm
