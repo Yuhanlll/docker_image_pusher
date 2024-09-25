@@ -22,3 +22,4 @@ celaraze/cat
 langgenius/dify-web
 mintplexlabs/anythingllm
 xhofe/alist
+keking/kkfileview
