@@ -1,1 +1,1 @@
- analogic/poste.io
+roundcube/roundcubemail:1.6.x-apache
