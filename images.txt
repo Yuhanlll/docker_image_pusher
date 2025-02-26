@@ -1,1 +1,2 @@
 roundcube/roundcubemail:1.6.x-apache
+linuxserver/dokuwiki
