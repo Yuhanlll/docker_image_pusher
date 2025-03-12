@@ -3,3 +3,4 @@ linuxserver/dokuwiki
 halcyonazure/lsky-pro-docker
 jeessy/ddns-go
 jc21/nginx-proxy-manager
+scr.io/linuxserver/bookstack
