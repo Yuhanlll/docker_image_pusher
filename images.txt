@@ -4,3 +4,4 @@ halcyonazure/lsky-pro-docker
 jeessy/ddns-go
 jc21/nginx-proxy-manager
 linuxserver/bookstack
+requarks/wiki
